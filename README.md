@@ -39,4 +39,4 @@ duration: "30s" // duration of test
 ```
 
 Results
-![alt text](https://github.com/Java-Arctic-Ratel/repair-service-load-testing/blob/init-project/k6_test_result.jpg "Screen 1")  
+![alt text](https://github.com/Java-Arctic-Ratel/repair-service-load-testing/blob/master/k6_test_result.jpg "Screen 1")  
